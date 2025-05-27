@@ -1,0 +1,37 @@
+.my-first-box {
+    background-color: navy; /* Gives the box a light blue background */
+    padding: 20px; /* Adds space inside the box */
+    margin: 15px; /* Adds space outside the box, pushing it away from other things */
+    border: 5px solid steelblue; /* Puts a blue border around the box */
+    text-align: center; /* Centers the text and image inside */
+}
+
+.another-box {
+    background-color: navy;
+    padding: 10px;
+    margin: 15px;
+    border: 1px dashed navy;
+     border: 5px solid steelblue;
+}
+
+.another-box2 {
+    background-color: navy;
+    padding: 10px;
+    margin: 15px;
+    border: 1px dashed navy;
+     border: 5px solid steelblue;
+}
+h1, h3 {
+    font-family: verdana;
+    color: yellow;
+    font-weight: 250;
+}
+
+p {
+    font-family: sans-serif;
+    color: #f6ff33;
+    font-weight: 250;
+}
+a {
+    background:yellow;
+   }
